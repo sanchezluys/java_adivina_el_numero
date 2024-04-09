@@ -10,6 +10,7 @@ public class Main {
         int maximo=100, intentos=4, aleatorio=new Random().nextInt(100), numero=0, maximosIntentos=intentos;
         int usados=0;
         String revisar="";
+        //**
         int[] extraterrestre = {0xD83D, 0xDC7D};
         int[] caritaFeliz = {0xD83D, 0xDE00};
         int[] llorando = {0xD83D, 0xDE2D};
