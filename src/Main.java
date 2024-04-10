@@ -57,6 +57,5 @@ public class Main {
         else{
             System.out.println(emoticon_llorando + "Que mal!! no adivinaste!! el número secreto era:  " + aleatorio);
         }
-
     }
 }
